@@ -4,6 +4,11 @@
   "description": "Official TinyMCE Angular Component",
   "author": "Ephox Inc",
   "license": "Apache-2.0",
+  "main": "lib/bundles/tinymce-tinymce-angular.umd.js",
+  "module": "lib/esm5/tinymce-tinymce-angular.js",
+  "es2015": "lib/esm2015/tinymce-tinymce-angular.js",
+  "typings": "lib/tinymce-tinymce-angular.d.ts",
+  "metadata": "lib/tinymce-tinymce-angular.metadata.json",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
